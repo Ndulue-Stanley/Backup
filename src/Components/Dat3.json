@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 9,
+        "Pic" : "../../Assets/hulu9.jpeg",
+        "Title" : "Deep Water",
+        "Category" : "R • Comedy, Action and..."
+    },
+    {
+        "id" : 10,
+        "Pic" : "../../Assets/hulu10.jpeg",
+        "Title" : "In Time",
+        "Category" : "PG-13 • Thriller, Sci-Fiction"
+    },
+    {
+        "id" : 11,
+        "Pic" : "../../Assets/hulu11.jpeg",
+        "Title" : "Supercell",
+        "Category" : "PG-13 • Adventure, Thriller •"
+    },
+    {
+        "id" : 12,
+        "Pic" : "../../Assets/hulu12.jpeg",
+        "Title" : "Nuevo orden",
+        "Category" : "R • Drama, Latino • Movie..."
+    }
+    
+]

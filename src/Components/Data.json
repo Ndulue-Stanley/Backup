@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "Pic" : "../../Assets/hulu1.jpeg",
+        "Title" : "DEEP",
+        "Category" : "R • Thriller, Latino • Movie"
+    },
+    {
+        "id" : 2,
+        "Pic" : "../../Assets/hulu2.jpeg",
+        "Title" : "No Exit",
+        "Category" : "R • Thriller, Horror • Movie"
+    },
+    {
+        "id" : 3,
+        "Pic" : "../../Assets/hulu3.jpeg",
+        "Title" : "Vacation Friends",
+        "Category" : "R • Comedy, Black Stories •"
+    },
+    {
+        "id" : 4,
+        "Pic" : "../../Assets/hulu4.jpeg",
+        "Title" : "Derek DelGaudio's In & Of Itsel",
+        "Category" : "TVMA • Drama, Biography •"
+    }
+    
+]

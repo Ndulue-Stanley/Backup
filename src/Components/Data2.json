@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 5,
+        "Pic" : "../../Assets/hulu5.jpeg",
+        "Title" : "Phone Booth",
+        "Category" : "R • Thriller • Movie (2003)"
+    },
+    {
+        "id" : 6,
+        "Pic" : "../../Assets/hulu6.jpeg",
+        "Title" : "Speed",
+        "Category" : "R • Drama, Action • Movie"
+    },
+    {
+        "id" : 7,
+        "Pic" : "../../Assets/hulu7.jpeg",
+        "Title" : "Notting Hill",
+        "Category" : "PG-13 • Comedy,Romance •"
+    },
+    {
+        "id" : 8,
+        "Pic" : "../../Assets/hulu8.jpeg",
+        "Title" : "The A-Team",
+        "Category" : "PG-13 • Action, Adventure •"
+    }
+    
+]
